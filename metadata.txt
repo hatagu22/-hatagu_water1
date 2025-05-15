@@ -1,0 +1,7 @@
+[general]
+name=hatagu_water1
+description=配水ブロックの重要度評価
+version=1.0
+qgisMinimumVersion=3.0
+author=あなたの名前
+email=example@example.com
